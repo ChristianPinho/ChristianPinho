@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou um Programador Front End, atualmente aprendendo e criando projetos com:.
+Eu sou um Programador Front End, aprendendo e criando projetos com:
 
 ## 🚀 Tecnologias
 - HTML
