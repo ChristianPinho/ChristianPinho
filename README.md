@@ -14,6 +14,6 @@ Eu sou um Programador Front End, aprendendo e criando projetos com:
 - React Hooks
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/christian-marcel-de-pinho-82b04140b/
+- LinkedIn: https://www.linkedin.com/in/christianpinho1994/
 - Email: christianpinho@outlook.com.br
 
