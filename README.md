@@ -7,6 +7,7 @@ Eu sou um Programador Front End, aprendendo e criando projetos com:
 - CSS
 - JavaScript
 - React
+- Node
 
 ## 📚 Atualmente estudando
 - APIs
