@@ -18,7 +18,7 @@ Busco construir aplicações completas, unindo frontend e backend, sempre focand
 * APIs REST
 * Autenticação de usuários
 * Deploy de aplicações
-* TypeScript (próximo passo)
+* TypeScript 
 
 ---
 
